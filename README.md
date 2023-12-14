@@ -11,12 +11,6 @@ Este proyecto se enfoca en el desarrollo de una aplicaci√≥n utilizando tecnolog√
 - ![MySQL](https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png) MySQL
 - ![Express](https://geekflare.com/wp-content/uploads/2023/01/expressjs.png) Express
 
-## Integrantes
-
-- Vicente Julio
-- Benjamin Bravo
-- Rony Perez
-
 ## Cursos Relacionados
 
 - Taller Integrador 2
