@@ -1,0 +1,121 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+.formulario {
+  background-color: #fff;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.formulario label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.formulario input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+.botones {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.botones button {
+  background-color: #ff5200;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: #fff;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color:  rgb(0, 38, 250);
+  color: #fff;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.acciones button {
+  background-color: #003ef8;
+  color: #fff;
+  padding: 6px 10px;
+  margin-right: 5px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.btn-editar {
+  background-color: #003ef8;
+  color: #fff;
+  padding: 6px 10px;
+  margin-right: 5px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.btn-eliminar {
+  background-color: #ff0000;
+  color: #fff;
+  padding: 6px 10px;
+  margin-right: 5px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.btn-exportar {
+  background-color: #ff5200;
+  color: #fff;
+  padding: 6px 10px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-right: 20px;
+
+}
+
+.contenedor-tabla {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding-right: 20px; /* Ajusta el valor según sea necesario */
+}
+
+.busqueda {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+@media (max-width: 576px) {
+  /* Estilos para pantallas pequeñas */
+  .formulario input {
+    width: auto; /* Ajustar el ancho del input para pantallas pequeñas */
+  }
+}

@@ -1,0 +1,59 @@
+
+  tr {
+  /* height: 5em;  Ajusta la altura según tus necesidades */
+  }
+
+
+  th {
+      background-color: #ff510033;
+      color: #000000;
+  }
+
+  td {
+      font-weight: bold;
+      color: #000000;
+      background-color: #ffffff;
+  }	
+
+  td.fc-timegrid-slot .fc-timegrid-slot-label .fc-scrollgrid-shrink {
+      background-color: black;
+  }
+
+
+
+  .check {
+    background-color: #ffffff;
+    border-color: #000000;
+    color: #000000;
+    font-weight: bold;
+  }
+  a {
+    color: #ffffff;
+    text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      text-transform: uppercase;
+      font-size: 1em;
+  }
+  /*para los eventos*/
+  .fc-event-main { 
+    /*background-color: #ff5100;*/
+    border-color: #000000;
+    box-shadow: 2px 2px 2px black;
+  }
+  .fc-event-main i {
+    color: #000000;
+    font-weight: bold;
+  }	
+
+  colgroup {
+    background-color: #ffffff59;
+    color: #000000;
+    font-weight: bold;
+  }
+
+  .demo-app-main {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+

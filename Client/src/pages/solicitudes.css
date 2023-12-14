@@ -1,0 +1,6 @@
+@media (max-width: 576px) {
+    /* Estilos para pantallas pequeñas */
+    .formulario input {
+      width: auto; /* Ajustar el ancho del input para pantallas pequeñas */
+    }
+  }

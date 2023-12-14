@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inria+Sans:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Carter+One:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inria-sans: "Inria Sans";
+  --font-inter: Inter;
+  --font-fredoka: Fredoka;
+  --font-carter-one: "Carter One";
+
+  /* font sizes */
+  --font-size-xl: 1.25rem;
+  --font-size-sm: 0.88rem;
+  --font-size-base: 1rem;
+  --font-size-xs: 0.75rem;
+  --font-size-5xl: 1.5rem;
+
+  /* Colors */
+  --color-lavender: #d9e1f7;
+  --color-black: #000;
+  --color-lightsteelblue-100: #ced6f7;
+  --color-lightsteelblue-200: #bdcbfa;
+  --color-mediumslateblue: rgba(77, 94, 255, 0.03);
+  --color-gray: rgba(0, 0, 0, 0.5);
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-xl: 20px;
+  --br-11xl: 30px;
+  --br-3xs: 10px;
+}

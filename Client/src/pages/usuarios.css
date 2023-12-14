@@ -1,0 +1,10 @@
+.nav-item {
+    color: blue;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.nav-link-no-clicable {
+    pointer-events: none;
+}  
